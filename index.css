@@ -1,0 +1,57 @@
+:root {
+  --branding-color: #6c63ff;
+  --secondary-color: #f5f2fe;
+  --background-color: #f9f7fe;
+  --box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+  --heading-font-family: "Playfair Display", serif;
+  --default-font-family: "Poppins", sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.save-btn {
+  display: block;
+  margin: 10px auto;
+  padding: 15px 20px;
+  background-color: var(--branding-color);
+  font-family: var(--default-font-family);
+  border: solid 1px var(--branding-color);
+  border-radius: 4px;
+  color: white;
+  letter-spacing: 1px;
+  font-weight: 200;
+  font-size: 18px;
+  transition: all 200ms ease-in-out;
+  text-decoration: none;
+  text-align: center;
+}
+
+.save-btn:hover {
+  background: white;
+  color: var(--branding-color);
+  border: 1px solid var(--branding-color);
+}
+
+.increment-btn {
+  display: block;
+  margin: 10px auto;
+  color: var(--branding-color);
+  background-color: white;
+  border: solid 1px var(--branding-color);
+  font-family: var(--default-font-family);
+  border-radius: 4px;
+  padding: 15px 20px;
+  letter-spacing: 1px;
+  font-weight: 200;
+  font-size: 18px;
+  transition: all 200ms ease-in-out;
+  text-decoration: none;
+}
+
+.increment-btn:hover {
+  background: var(--branding-color);
+  color: white;
+  border: 1px solid var(--branding-color);
+}
