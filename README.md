@@ -1,7 +1,7 @@
 
 # PASSENGER COUNTER 
 
-I built this passenger counter with the Scrimba course to brush up my Javascript skills. The app relies on DOM manipulation to count how many passenger enter the metro after each stop and resets the counter back to zero every time the count is saved.
+I built this passenger counter with the Scrimba course to brush up my Javascript skills. The app relies on DOM manipulation to count how many passenger enter the metro after each stop and resets the counter back to zero every time the count it's saved.
 
 
 ## Tech Stack
