@@ -4,13 +4,11 @@
 
 I built this passenger counter with the Scrimba course to brush up my Javascript skills. The app relies on DOM manipulation to count how many passenger enter the metro after each stop and resets the counter back to zero every time the count it's saved.
 
+<img align="right" alt="portfolio" width="350" src="https://raw.githubusercontent.com/NayoBaez/Passenger-Counter/12acecfe05d32bcefd5f4ae4522d6e0bb8ea54b9/project%20screenshot%20counter.png"></img>
 
 ## Tech Stack
 
 HTML, CSS & Javascript 
-
-
-
 
 ## Authors
 
